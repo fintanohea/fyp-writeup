@@ -1,0 +1,13 @@
+\subsection{Streaming Media}
+Once the development environment was created the next task tackled was experimenting with different techniques of streaming media.\\
+These techniques included:
+\begin{itemize}
+\item HTML5 Audio tag.
+\item Spark Streaming.
+\item Icecast.
+\item SHOUTcast.
+\item Darkice.
+\item ezstream.
+\item jPlayer.
+\end{itemize}
+Both HTML5 Audio tags and Spark Streaming were ruled out 

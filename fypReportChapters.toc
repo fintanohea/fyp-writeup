@@ -1,0 +1,93 @@
+\contentsline {paragraph}{}{2}
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {section}{\numberline {1.1}Introduction}{7}
+\contentsline {section}{\numberline {1.2}Motivation}{8}
+\contentsline {section}{\numberline {1.3}Aim of the Project}{8}
+\contentsline {section}{\numberline {1.4}Report Outline}{9}
+\contentsline {chapter}{\numberline {2}Background}{11}
+\contentsline {section}{\numberline {2.1}Relevant Technologies}{11}
+\contentsline {subsection}{\numberline {2.1.1}Apache HTTP Server}{11}
+\contentsline {subsection}{\numberline {2.1.2}MySQL}{11}
+\contentsline {subsection}{\numberline {2.1.3}PHP}{11}
+\contentsline {subsection}{\numberline {2.1.4}JavaScript}{12}
+\contentsline {subsection}{\numberline {2.1.5}jQuery}{12}
+\contentsline {subsection}{\numberline {2.1.6}jPlayer}{12}
+\contentsline {section}{\numberline {2.2}Research}{12}
+\contentsline {subsection}{\numberline {2.2.1}Grooveshark}{12}
+\contentsline {subsection}{\numberline {2.2.2}8tracks}{13}
+\contentsline {subsection}{\numberline {2.2.3}Spotify}{14}
+\contentsline {subsection}{\numberline {2.2.4}Pandora}{14}
+\contentsline {subsection}{\numberline {2.2.5}Research Conclusion}{15}
+\contentsline {chapter}{\numberline {3}Design}{16}
+\contentsline {section}{\numberline {3.1}High Level Requirements}{16}
+\contentsline {section}{\numberline {3.2}Detailed Requirements}{17}
+\contentsline {subsection}{\numberline {3.2.1}Features available to unregistered users}{17}
+\contentsline {subsection}{\numberline {3.2.2}Features available to registered users}{17}
+\contentsline {subsection}{\numberline {3.2.3}Creating an account}{18}
+\contentsline {subsection}{\numberline {3.2.4}Creating a personal library}{18}
+\contentsline {subsection}{\numberline {3.2.5}Creating a station}{19}
+\contentsline {subsection}{\numberline {3.2.6}Station Types}{19}
+\contentsline {subsection}{\numberline {3.2.7}Searching for a station}{21}
+\contentsline {subsection}{\numberline {3.2.8}Starting your station}{21}
+\contentsline {subsection}{\numberline {3.2.9}Adding songs to the queue}{21}
+\contentsline {subsection}{\numberline {3.2.10}Queueing songs}{21}
+\contentsline {subsection}{\numberline {3.2.11}Editing Stations}{22}
+\contentsline {subsection}{\numberline {3.2.12}Deleting Stations}{22}
+\contentsline {section}{\numberline {3.3}Software Development Model}{22}
+\contentsline {subsection}{\numberline {3.3.1}Waterfall Model}{22}
+\contentsline {subsection}{\numberline {3.3.2}Prototyping Model}{24}
+\contentsline {subsection}{\numberline {3.3.3}Spiral Life Cycle Model}{25}
+\contentsline {subsection}{\numberline {3.3.4}Agile Model}{28}
+\contentsline {subsection}{\numberline {3.3.5}Software Development Model Chosen and Why}{29}
+\contentsline {section}{\numberline {3.4}Storing Data}{29}
+\contentsline {subsection}{\numberline {3.4.1}Oracle}{30}
+\contentsline {subsection}{\numberline {3.4.2}MySQL}{30}
+\contentsline {subsection}{\numberline {3.4.3}PostgreSQl}{30}
+\contentsline {subsection}{\numberline {3.4.4}Microsoft SQL Server}{30}
+\contentsline {subsection}{\numberline {3.4.5}Relational Database Chosen and Why}{30}
+\contentsline {section}{\numberline {3.5}Website Architecture}{31}
+\contentsline {subsection}{\numberline {3.5.1}Bad Website Architecture}{31}
+\contentsline {subsection}{\numberline {3.5.2}Good Website Architecture}{31}
+\contentsline {section}{\numberline {3.6}Navigation}{33}
+\contentsline {subsection}{\numberline {3.6.1}Information Architecture}{33}
+\contentsline {subsection}{\numberline {3.6.2}Use of User-Enabled Technologies}{33}
+\contentsline {subsection}{\numberline {3.6.3}Using Simple Terms}{34}
+\contentsline {subsection}{\numberline {3.6.4}Indication of Current Location}{34}
+\contentsline {subsection}{\numberline {3.6.5}Use of Web Conventions}{34}
+\contentsline {section}{\numberline {3.7}Use Cases}{35}
+\contentsline {section}{\numberline {3.8}Page Design}{38}
+\contentsline {subsection}{\numberline {3.8.1}Home Page}{38}
+\contentsline {subsection}{\numberline {3.8.2}Create Station Page}{42}
+\contentsline {subsection}{\numberline {3.8.3}Edit Station Page}{44}
+\contentsline {subsection}{\numberline {3.8.4}Edit Library Page}{46}
+\contentsline {subsection}{\numberline {3.8.5}Vote determines playlist + Stream Page}{48}
+\contentsline {subsection}{\numberline {3.8.6}Vote determines playlist Page}{50}
+\contentsline {subsection}{\numberline {3.8.7}Voter feedback + Stream Page}{51}
+\contentsline {subsection}{\numberline {3.8.8}Voter feedback Page}{53}
+\contentsline {subsection}{\numberline {3.8.9}Stream Page}{53}
+\contentsline {chapter}{\numberline {4}Implementation}{56}
+\contentsline {section}{\numberline {4.1}Introduction}{56}
+\contentsline {section}{\numberline {4.2}Apache Server}{56}
+\contentsline {section}{\numberline {4.3}Database Implementation}{56}
+\contentsline {subsection}{\numberline {4.3.1}First Draft}{57}
+\contentsline {subsection}{\numberline {4.3.2}Final Draft}{60}
+\contentsline {subsection}{\numberline {4.3.3}Conclusion}{61}
+\contentsline {section}{\numberline {4.4}jPlayer}{61}
+\contentsline {section}{\numberline {4.5}Voting System}{65}
+\contentsline {section}{\numberline {4.6}Register and Login System}{67}
+\contentsline {section}{\numberline {4.7}Edit Station Page}{70}
+\contentsline {chapter}{\numberline {5}Testing and Evaluation}{73}
+\contentsline {section}{\numberline {5.1}Introduction}{73}
+\contentsline {section}{\numberline {5.2}Unit Testing}{73}
+\contentsline {section}{\numberline {5.3}Integration Testing}{74}
+\contentsline {section}{\numberline {5.4}Usability Testing}{74}
+\contentsline {subsection}{\numberline {5.4.1}Students}{74}
+\contentsline {subsection}{\numberline {5.4.2}Bar/Club Managers and Promoters}{76}
+\contentsline {section}{\numberline {5.5}Conclusion}{77}
+\contentsline {chapter}{\numberline {6}Conclusion}{78}
+\contentsline {section}{\numberline {6.1}Project Conclusion}{78}
+\contentsline {section}{\numberline {6.2}Personal Conclusion}{78}
+\contentsline {chapter}{\numberline {7}Future}{80}
+\contentsline {section}{\numberline {7.1}Setting Stations To Be Live}{80}
+\contentsline {section}{\numberline {7.2}Support for Youtube, Spotify and Grooveshark Files}{81}
+\contentsline {section}{\numberline {7.3}Creating a JRE For File Uploads}{81}

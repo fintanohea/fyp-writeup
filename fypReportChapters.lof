@@ -1,0 +1,39 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces An example of Waterfall development\cite {prototype}}}{24}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces An example of Prototype development\cite {prototype}}}{26}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces An example of Spiral development\cite {spiral}}}{28}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces An example of Agile development\cite {agile}}}{29}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces An example of bad web architecture}}{33}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces An example of good web architecture}}{33}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Use case diagram for connect to a live station}}{36}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Use case diagram for create station}}{37}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Use case diagram for edit station}}{38}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Use case diagram for up vote song in station }}{38}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces The homepage for non signed in users}}{40}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces The login iframe}}{41}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces The register iframe}}{41}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces The homepage for logged in users}}{42}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Delete station confirmation}}{43}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Create station page}}{44}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Confirm creation of station}}{45}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Edit station page}}{46}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Confirmation of station edit}}{46}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Edit personal library page}}{47}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Confirm edit of station}}{48}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Browsing the user curated library}}{49}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Owner page for Vote determines playlist + Stream station}}{50}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Connected user page for Vote determines playlist + Stream station}}{51}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Connected user page for Vote determines playlist station}}{52}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Connected user page for Vote determines playlist station}}{53}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Drag-and-Drop feature}}{54}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Stream station owner page}}{55}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Connected users page for stream station type}}{56}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The list of main entities}}{59}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The main relationships}}{60}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ERD for final draft}}{62}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
